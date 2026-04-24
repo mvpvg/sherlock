@@ -11,6 +11,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 LushStories
 Patched
 Pornhub
@@ -31,6 +32,7 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
