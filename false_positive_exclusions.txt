@@ -6,15 +6,16 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
+LemmyWorld
 LushStories
+Minecraft
+Outgress
 Patched
 Rarible
 Realmeye
@@ -27,6 +28,7 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
