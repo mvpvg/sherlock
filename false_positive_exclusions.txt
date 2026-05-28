@@ -12,6 +12,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
+Minecraft
 Patched
 Pornhub
 Rarible
@@ -38,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
