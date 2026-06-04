@@ -1,6 +1,6 @@
 7Cups
-APClips
 Airliners
+Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
@@ -12,9 +12,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
+Minecraft
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -38,4 +37,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
