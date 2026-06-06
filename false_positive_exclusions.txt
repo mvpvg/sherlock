@@ -6,14 +6,13 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Minecraft
+LessWrong
 Patched
 Pornhub
 Rarible
@@ -38,4 +37,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
