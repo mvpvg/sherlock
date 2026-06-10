@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -13,7 +12,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-OurDJTalk
+Minecraft
 Patched
 Rarible
 Realmeye
