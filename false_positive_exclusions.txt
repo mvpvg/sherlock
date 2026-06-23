@@ -21,9 +21,9 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-RuneScape
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
@@ -34,7 +34,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-furaffinity
+hunting
 igromania
 interpals
 mercadolivre
