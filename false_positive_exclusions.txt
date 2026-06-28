@@ -6,9 +6,9 @@ Archive.org
 Bandcamp
 Codolio
 Cults3D
-DeviantArt
 Discord.bio
 Envato Forum
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -16,7 +16,6 @@ Houzz
 Hubski
 LessWrong
 Odysee
-OurDJTalk
 Patched
 Rarible
 Realmeye
@@ -25,12 +24,9 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
-Star Citizen
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -41,4 +37,5 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 svidbook
