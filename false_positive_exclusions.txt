@@ -4,17 +4,19 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Carbonmade
 Codolio
-Cults3D
+DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
+Minecraft
 Odysee
 Patched
 Rarible
@@ -27,6 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
