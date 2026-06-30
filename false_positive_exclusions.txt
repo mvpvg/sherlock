@@ -4,8 +4,10 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
+CGTrader
+Chess
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -14,11 +16,11 @@ Giphy
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
-Minecraft
 Odysee
+PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -42,3 +44,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
