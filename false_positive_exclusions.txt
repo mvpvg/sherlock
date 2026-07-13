@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -15,6 +16,7 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+LiveJournal
 Odysee
 PCGamer
 Patched
@@ -42,3 +44,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
