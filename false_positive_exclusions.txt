@@ -9,13 +9,13 @@ BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -30,12 +30,10 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
