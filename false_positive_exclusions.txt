@@ -14,9 +14,9 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Linktree
 Odysee
 PCGamer
+Patched
 Pornhub
 Rarible
 Realmeye
@@ -28,13 +28,13 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 igromania
 interpals
 mercadolivre
