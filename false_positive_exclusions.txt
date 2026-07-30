@@ -12,12 +12,12 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-GitBook
+Gumroad
 Hashnode
 Hubski
 Instapaper
-Itch.io
 LessWrong
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -28,11 +28,9 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Signal
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Weblate
