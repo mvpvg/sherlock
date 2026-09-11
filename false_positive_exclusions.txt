@@ -4,20 +4,21 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
+ColourLovers
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
+Mydramalist
 ObservableHQ
 Odysee
 PCGamer
@@ -37,7 +38,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
