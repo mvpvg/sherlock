@@ -4,7 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -20,9 +19,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
-NationStates Nation
-NationStates Region
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer
