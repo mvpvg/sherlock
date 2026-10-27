@@ -1,12 +1,11 @@
-7Cups
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -23,7 +22,6 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
-Pastebin
 Rarible
 Realmeye
 Reddit
@@ -34,8 +32,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-TikTok
-Trakt
+Strava
 TryHackMe
 Velomania
 Weblate
