@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -19,6 +20,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+LiveJournal
 Minecraft
 ObservableHQ
 Odysee
@@ -33,14 +35,12 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
-Velomania
 Vero
-Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 interpals
