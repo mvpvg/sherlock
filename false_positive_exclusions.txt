@@ -1,12 +1,9 @@
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -19,12 +16,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
+Minecraft
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -38,7 +35,6 @@ Trakt
 TryHackMe
 Velomania
 Vero
-WordPress
 YandexMusic
 authorSTREAM
 dailykos
