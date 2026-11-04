@@ -1,9 +1,12 @@
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -16,7 +19,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
+LiveJournal
 Minecraft
 ObservableHQ
 Odysee
@@ -40,6 +45,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
