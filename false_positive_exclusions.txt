@@ -3,6 +3,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 BoardGameGeek
 Championat
 Chatujme.cz
@@ -21,11 +22,10 @@ Hubski
 Instapaper
 Itch.io
 Linktree
-LiveJournal
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -51,4 +51,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
