@@ -1,7 +1,9 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
@@ -9,13 +11,12 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-Gravatar
 HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
-Minecraft
+Linktree
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer
@@ -29,6 +30,8 @@ Shelf
 SlideShare
 Splice
 Spotify
+TnAFlix
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -43,3 +46,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
