@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -14,8 +15,7 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Kvinneguiden
-Minecraft
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer
@@ -24,12 +24,12 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trakt
 TryHackMe
 Velomania
