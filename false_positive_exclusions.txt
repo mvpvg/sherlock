@@ -7,9 +7,9 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 GaiaOnline
 GeeksforGeeks
-Gravatar
 HackerNews
 Hashnode
 Hubski
@@ -27,6 +27,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
